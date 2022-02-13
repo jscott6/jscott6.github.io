@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Jamie Scott</title>
+    <link>https://jscott6.github.io/talks/</link>
+      <atom:link href="https://jscott6.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 09:10:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jscott6.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://jscott6.github.io/talks/</link>
+    </image>
+    
+    <item>
+      <title>University of Copenhagen</title>
+      <link>https://jscott6.github.io/talks/copenhagen/</link>
+      <pubDate>Tue, 18 May 2021 09:10:00 +0000</pubDate>
+      <guid>https://jscott6.github.io/talks/copenhagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plenary Talk at StanCon 2020</title>
+      <link>https://jscott6.github.io/talks/stancon/</link>
+      <pubDate>Thu, 13 Aug 2020 09:10:00 +0000</pubDate>
+      <guid>https://jscott6.github.io/talks/stancon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research in Statistics Seminar, Harvard</title>
+      <link>https://jscott6.github.io/talks/harvard/</link>
+      <pubDate>Sat, 13 Apr 2019 09:10:00 +0000</pubDate>
+      <guid>https://jscott6.github.io/talks/harvard/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

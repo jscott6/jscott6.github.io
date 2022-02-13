@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Epidemiology | Jamie Scott</title>
+    <link>https://jscott6.github.io/tag/epidemiology/</link>
+      <atom:link href="https://jscott6.github.io/tag/epidemiology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Epidemiology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jscott6.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Epidemiology</title>
+      <link>https://jscott6.github.io/tag/epidemiology/</link>
+    </image>
+    
+    <item>
+      <title>epidemia</title>
+      <link>https://jscott6.github.io/software/epidemia/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://jscott6.github.io/software/epidemia/</guid>
+      <description>&lt;p&gt;Flexibly specify and fit Bayesian statistical models for epidemics. epidemia leverages R’s formula interface to paramaterize the time-varying reproduction rate as a function of covariates. Multiple regions can be modeled simultaneously with multilevel models. The design of the package has been inspired by, and has borrowed from, rstanarm. epidemia uses rstan as the backend for fitting models.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

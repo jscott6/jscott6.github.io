@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Jamie Scott</title>
+    <link>https://jscott6.github.io/publication/</link>
+      <atom:link href="https://jscott6.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Jan 2021 22:04:18 +0000</lastBuildDate>
+    <image>
+      <url>https://jscott6.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://jscott6.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Approximate Conditional Sampling for Pattern Detection in Weighted Networks</title>
+      <link>https://jscott6.github.io/publication/approximate-conditional-sampling/</link>
+      <pubDate>Fri, 21 Jan 2022 22:12:19 +0000</pubDate>
+      <guid>https://jscott6.github.io/publication/approximate-conditional-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact Tests for Invariance of MCMC and other Monte Carlo Methods</title>
+      <link>https://jscott6.github.io/publication/exact-tests-for-mcmc-and-other-monte-carlo-methods/</link>
+      <pubDate>Fri, 21 Jan 2022 21:59:00 +0000</pubDate>
+      <guid>https://jscott6.github.io/publication/exact-tests-for-mcmc-and-other-monte-carlo-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing the responses of the UK, Sweden and Denmark to COVID-19 using counterfactual modelling</title>
+      <link>https://jscott6.github.io/publication/comparing-responses/</link>
+      <pubDate>Thu, 21 Jan 2021 22:12:19 +0000</pubDate>
+      <guid>https://jscott6.github.io/publication/comparing-responses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>epidemia - An R Package for Bayesian, Semi-Mechanistic Modeling of Infectious Diseases</title>
+      <link>https://jscott6.github.io/publication/epidemia/</link>
+      <pubDate>Thu, 21 Jan 2021 22:12:19 +0000</pubDate>
+      <guid>https://jscott6.github.io/publication/epidemia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Mechanistic Bayesian Modeling of COVID-19 with Renewal Processes</title>
+      <link>https://jscott6.github.io/publication/semi-mechanistic-bayesian-modeling-of-covid-19-with-renewal-processes/</link>
+      <pubDate>Thu, 21 Jan 2021 22:12:19 +0000</pubDate>
+      <guid>https://jscott6.github.io/publication/semi-mechanistic-bayesian-modeling-of-covid-19-with-renewal-processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A COVID-19 Model for Local Authorities of the United Kingdom</title>
+      <link>https://jscott6.github.io/publication/a-covid-19-model-for-local-authorities-of-the-united-kingdom/</link>
+      <pubDate>Thu, 21 Jan 2021 22:06:22 +0000</pubDate>
+      <guid>https://jscott6.github.io/publication/a-covid-19-model-for-local-authorities-of-the-united-kingdom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply to: The effect of interventions on COVID-19.</title>
+      <link>https://jscott6.github.io/publication/reply-to-the-effect-of-interventions-on-covid-19/</link>
+      <pubDate>Thu, 21 Jan 2021 21:53:12 +0000</pubDate>
+      <guid>https://jscott6.github.io/publication/reply-to-the-effect-of-interventions-on-covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-Dependent Kernel Selection for Conditional Sampling of Graphs</title>
+      <link>https://jscott6.github.io/publication/state-dependent-kernel-selection/</link>
+      <pubDate>Tue, 21 Jan 2020 22:12:19 +0000</pubDate>
+      <guid>https://jscott6.github.io/publication/state-dependent-kernel-selection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
